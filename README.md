@@ -29,9 +29,6 @@ FTKimager
 ### 🕵️ Steganography & Hidden Data Extraction
 
 StegHide  
-## How to Use This Repository (if you even need this)
-🔍 Explore the Analysis: Read my stuff!! This report covers investigative methods, evidence extraction, and forensic techniques.  
-🚀 Learn & Contribute: Let this serve as a guide for other students, researchers, and professionals interested in digital forensics.  
 
 
 # Examiner Report
@@ -81,6 +78,3 @@ The preliminary interviews and investigation have gathered the following informa
 * * Maplestory, metasploitframework: “aliciathj”
 Both Mr Thomas Chee and you work as forensics investigators in a private forensics firm, True Identity Pte Ltd. The hard disk of Simon and Alicia’s personal computers were acquiredby Mr Thomas Chee and Simon’s image file (Simon.Ex01) has also been examined by him. You have been tasked to examine Alicia’s image file (Alicia.Ex01) to solve the case.   
 
-## How to Use This Repository
-🔍 Explore the Report: This report covers components such as documentation, formatting and elaborations.  
-🚀 Learn & Contribute: This report may serve as a guide for other students, researchers, and professionals interested in digital forensics.  
